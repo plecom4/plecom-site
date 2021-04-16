@@ -28,7 +28,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll Themes![프필](https://user-images.githubusercontent.com/82631533/114973221-fc5d2300-9eba-11eb-9aa7-7e6c6df5e4fe.jpg)
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/plecom4/plecom-site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
